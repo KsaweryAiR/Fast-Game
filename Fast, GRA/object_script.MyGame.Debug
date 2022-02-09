@@ -1,0 +1,16 @@
+debug/audio.o
+debug/balls.o
+debug/coins.o
+debug/generator.o
+debug/hero.o
+debug/main.o
+debug/menu.o
+debug/panel.o
+debug/poziom1.o
+debug/poziom2.o
+debug/poziom3.o
+debug/poziom4.o
+debug/poziom5.o
+debug/poziomabstra.o
+debug/poziomtextury.o
+debug/scena.o

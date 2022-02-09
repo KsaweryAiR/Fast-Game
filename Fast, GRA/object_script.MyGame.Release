@@ -1,0 +1,16 @@
+release/audio.o
+release/balls.o
+release/coins.o
+release/generator.o
+release/hero.o
+release/main.o
+release/menu.o
+release/panel.o
+release/poziom1.o
+release/poziom2.o
+release/poziom3.o
+release/poziom4.o
+release/poziom5.o
+release/poziomabstra.o
+release/poziomtextury.o
+release/scena.o
